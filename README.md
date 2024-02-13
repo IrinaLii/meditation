@@ -10,6 +10,10 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Estonia (in the beginning of the journey).
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :parachute: Exploring Technical Content Writing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/irina-lipatnikova-1b8567b4)
+
+### :fairy_man: About this project:
+
+The project is designed for people who want to harmonize their thoughts, dream or relax.
